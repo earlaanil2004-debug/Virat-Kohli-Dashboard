@@ -1,5 +1,5 @@
 # Virat Kohli Dashboard
-Virat Kohli Dashboard Power BI
+Virat Kohli Dashboard Excel
 
 -------------------------------------------------------------
 
